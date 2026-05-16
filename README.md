@@ -3,14 +3,14 @@
     <img src="apps/web/public/opengraph/banner.jpg" alt="Reactive Resume" />
   </a>
 
-  <h1>Reactive Resume</h1>
+  <h1>Resume Helper</h1>
 
-  <p>Reactive Resume is a free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume.</p>
+  <p>Resume Helper is a free resume builder that simplifies the process of creating, updating, and sharing your resume.</p>
 
   <p>
-    <a href="https://rxresu.me"><strong>Get Started</strong></a>
+    <a href="https://resumebuilder.io"><strong>Get Started</strong></a>
     ·
-    <a href="https://docs.rxresu.me"><strong>Learn More</strong></a>
+    <a href="https://resumebuilder.io"><strong>Learn More</strong></a>
   </p>
 
   <p>
@@ -27,7 +27,7 @@
 
 ---
 
-Reactive Resume makes building resumes straightforward. Pick a template, fill in your details, and export to PDF—no account required for basic use. For those who want more control, the entire application can be self-hosted on your own infrastructure.
+Resume Helper makes building resumes straightforward. Pick a template, fill in your details, and export to PDF—no account required for basic use. For those who want more control, the entire application can be self-hosted on your own infrastructure.
 
 Built with privacy as a core principle, Reactive Resume gives you complete ownership of your data. The codebase is fully open-source under the MIT license, with no tracking, no ads, and no hidden costs.
 
